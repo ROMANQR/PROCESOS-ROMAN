@@ -1,0 +1,15 @@
+Proceso Suma
+	Escribir "Hola, esta es una calculadora"
+	Escribir "Dime el primer numero a sumar"
+	Leer numeroA
+	Escribir "Dime el segundo numero a sumar"
+	Leer numeroB
+	Escribir "Dime el tercer numero a sumar"
+	Leer numeroC
+	resultado_suma<-numeroA + numeroB + numeroC
+	Escribir "Resultado = ", resultado_suma
+	prom<-resultado_suma/3
+    
+    Escribir "El promedio es: ",prom
+
+FinProceso
